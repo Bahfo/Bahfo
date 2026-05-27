@@ -6,7 +6,7 @@
 </p>
 
 I am Bahaa Nofal, a Computer and Communications Engineering Student in Al-Zaytoonah University of Jordan. 
-Currently holding the position of Chair of ComSoc and SPS society of IEEE Section in ZUJ.
+Serving as Chair of the IEEE Communications Society (ComSoc) and Signal Processing Society (SPS) at ZUJ.
 
 ---
 
@@ -14,9 +14,9 @@ Currently holding the position of Chair of ComSoc and SPS society of IEEE Sectio
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
